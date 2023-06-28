@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Owen Huang's github stats](https://github-readme-stats.vercel.app/api?username=huangowen "![Owen Huang's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Owen Huang's github stats](https://github-readme-stats.vercel.app/api?username=huangowen&rank_icon=github "Owen Huang's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 This is Xijie Huang [[HomePage]](https://huangowen.github.io/), a Ph.D. student at HKUST CSE.
 
